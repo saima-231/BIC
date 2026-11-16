@@ -61,4 +61,5 @@ Run any solution using Python 3 and provide the required input.
 
 [Rosalind – Bioinformatics Learning Platform](https://rosalind.info/)
 
-Add input and output examplesAdd a project overviewInclude an installation section
+Add input and output examplesAdd a project overviewInclude an installation section. 
+
